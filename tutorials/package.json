@@ -1,0 +1,28 @@
+{
+    "author": "Nao_Taka",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tutorials",
+    "pebble": {
+        "displayName": "tutorials",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "340b169b-5d0a-4c6b-b4d1-81dfdd9b8d52",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
